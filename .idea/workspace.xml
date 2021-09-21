@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <recent name="C:\pub\git\CSC256Public" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_whats_my_name.py">
+  <component name="RunManager" selected="Python tests.pytest for test_whats_my_name.test_my_name_is">
     <configuration name="whats_my_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_whats_my_name.py" />
         <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
+        <item itemvalue="Python tests.pytest in test_whats_my_name.py" />
         <item itemvalue="Python.whats_my_name" />
       </list>
     </recent_temporary>
@@ -137,26 +135,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1631648291903">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1631677532939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631648291903" />
-    <state width="1515" height="209" key="GridCell.Tab.0.bottom" timestamp="1631648563816">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631677532939" />
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1631677694814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631648563816" />
-    <state width="1515" height="209" key="GridCell.Tab.0.center" timestamp="1631648563816">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631677694814" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1631677694814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631648563816" />
-    <state width="1515" height="209" key="GridCell.Tab.0.left" timestamp="1631648563816">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631677694814" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1631677694814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631648563816" />
-    <state width="1515" height="209" key="GridCell.Tab.0.right" timestamp="1631648563816">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631677694814" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1631677694814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631648563816" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631677694814" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1631653569028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
